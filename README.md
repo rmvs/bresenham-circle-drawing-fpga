@@ -1,7 +1,10 @@
-Bresenham Circle Drawing Algorithm
+###Algoritmo para a construção do Círculo de Bresenham
 
 
-This project implements Bresenham`s Circle algorithm.
+Esse projeto implementa o algoritmo do Círculo de Bresenham
 
 
-It uses a 800x600 frame buffer to display the generated circle.
+##Material base utilizado das aulas:
+
+#Pré-requisitos:
+*Vivado 2018.3 *Vivado HLS 2018.3 *Xilinx SDK 2018.3 *Verilog *O projeto usa um buffer de quadro de 800x600 para exibir o círculo gerado.
